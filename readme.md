@@ -1,6 +1,6 @@
 # TechVision - Sitio Web Corporativo Moderno
 
-![TechVision Preview](./screenshots/preview.jpg)
+![TechVision Preview](index.html)
 
 Un sitio web moderno y receptivo para empresas tecnológicas con animaciones fluidas, modo oscuro/claro y diseño interactivo.
 
